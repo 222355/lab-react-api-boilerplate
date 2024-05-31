@@ -1,0 +1,14 @@
+.books-page{
+  margin: 0;
+  padding: 20px;
+}
+.book-img-des{
+  display: flex;
+  padding: 10px;
+}
+.book-img-des img{
+  padding-right: 30px;
+}
+hr{
+border: 2px solid green;
+}
